@@ -5,7 +5,7 @@
   <img src="https://a.top4top.io/p_2655wie8u1.png" alt="example">
 </div>
 
-1-`git clone https://github.com/Cy0x1337/Army1337.git
+1-`git clone https://github.com/Cy0x1337/Army1337.git`
 
 2-`Moroccan Army`
 
